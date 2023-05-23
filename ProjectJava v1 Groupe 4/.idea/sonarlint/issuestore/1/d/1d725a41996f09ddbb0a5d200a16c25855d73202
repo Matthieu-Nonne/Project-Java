@@ -1,0 +1,9 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğÂ›8Ğª˜¿„1
+’
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(º÷›¡şÿÿÿÿ8Ñª˜¿„1
+L
+java:S1068"*Remove this unused "lastId" private field.(¢™Üòüÿÿÿÿ8ïª˜¿„1
+T
+java:S1068"2Remove this unused "tournamentName" private field.(ã‘«£øÿÿÿÿ8ğª˜¿„1

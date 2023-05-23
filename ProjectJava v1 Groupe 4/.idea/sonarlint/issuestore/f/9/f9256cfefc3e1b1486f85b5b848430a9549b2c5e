@@ -1,0 +1,16 @@
+
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(øÔÀß
+Œ
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ƒÛíŸýÿÿÿÿ
+>
+java:S3010"#Remove this assignment of "lastId".(½¤›Òúÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ8…ú»¬€1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8…ú»¬€1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…ú»¬€1
+A
+java:S1068
+"&Remove this unused "id" private field.(ôç¼Óþÿÿÿÿ

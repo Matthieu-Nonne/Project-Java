@@ -1,0 +1,16 @@
+
+^
+java:S1854"CRemove this useless assignment to local variable "matchController".(–ÏÛ‘øÿÿÿÿ
+H
+java:S1172"2Remove this unused method parameter "actionEvent".(†ïô˜
+O
+java:S1481"4Remove this unused "matchController" local variable.(–ÏÛ‘øÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ
+D
+java:S1128".Remove this unused import 'javafx.scene.Node'.(ÑÖ¬ï
+K
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+C
+java:S1068"(Remove this unused "root" private field.(Ð´”ðûÿÿÿÿ

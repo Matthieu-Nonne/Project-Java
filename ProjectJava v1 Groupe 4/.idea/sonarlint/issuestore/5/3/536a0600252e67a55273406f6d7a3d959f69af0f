@@ -1,0 +1,9 @@
+
+n
+java:S1450"SRemove the "root" field and declare it as a local variable in the relevant methods.(Ð´”ðûÿÿÿÿ
+o
+java:S1450"TRemove the "stage" field and declare it as a local variable in the relevant methods.(‹ðÑœýÿÿÿÿ
+^
+java:S1854"HRemove this useless assignment to local variable "principaleController".(”–ûØ
+O
+java:S1481"9Remove this unused "principaleController" local variable.(”–ûØ

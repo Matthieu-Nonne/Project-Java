@@ -1,0 +1,33 @@
+
+i
+java:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(œ¦¨¸8ÕõÂÆ„1
+_
+java:S4973—"<Strings and Boxed types should be compared using "equals()".(îŞˆÿÿÿÿÿ8ÖõÂÆ„1
+Ÿ
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÆÓü8‚öÂÆ„1
+>	java:S131^""Add a default case to this switch.(ÅÔÍ“8‹öÂÆ„1
+U
+java:S1172„"2Remove this unused method parameter "actionEvent".(İáşÃøÿÿÿÿ8öÂÆ„1
+g
+java:S1871‰"IThis case's code block is the same as the block for the case on line 135.(ÿÀÕ•8öÂÆ„1
+?	java:S131†""Add a default case to this switch.(œ¦¨¸8öÂÆ„1
+g
+java:S1854›"IRemove this useless assignment to local variable "tournamentElimination".(óÜÛÿ8öÂÆ„1
+b
+java:S1854¢"DRemove this useless assignment to local variable "tournamentLeague".(òÿ—Ö8öÂÆ„1
+X
+java:S1481›":Remove this unused "tournamentElimination" local variable.(óÜÛÿ8”öÂÆ„1
+S
+java:S1481¢"5Remove this unused "tournamentLeague" local variable.(òÿ—Ö8–öÂÆ„1
+f
+java:S1854´"HRemove this useless assignment to local variable "principaleController".(”–ûØ8˜öÂÆ„1
+W
+java:S1481´"9Remove this unused "principaleController" local variable.(”–ûØ8öÂÆ„1
+k
+java:S1854¿"NRemove this useless assignment to local variable "tournamentLeagueController".(­‚ß8¢öÂÆ„1
+\
+java:S1481¿"?Remove this unused "tournamentLeagueController" local variable.(­‚ß8£öÂÆ„1
+v
+java:S1854È"SRemove this useless assignment to local variable "tournamentEliminationController".(ÔœêÆùÿÿÿÿ8¤öÂÆ„1
+g
+java:S1481È"DRemove this unused "tournamentEliminationController" local variable.(ÔœêÆùÿÿÿÿ8¦öÂÆ„1

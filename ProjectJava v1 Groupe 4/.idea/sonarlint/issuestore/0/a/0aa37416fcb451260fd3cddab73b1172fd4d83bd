@@ -1,0 +1,9 @@
+
+‚
+java:S4165"eRemove this useless assignment; "circuit" already holds the assigned value along all execution paths.(Ÿ‰ë©8äçÓÆ„1
+<
+java:S3010"Remove this assignment of "id".(¨Ù€È8æçÓÆ„1
+L
+java:S1656"/Remove or correct this useless self-assignment.(Ÿ‰ë©8éçÓÆ„1
+I
+java:S1068"'Remove this unused "nom" private field.(À³õåùÿÿÿÿ8éçÓÆ„1
