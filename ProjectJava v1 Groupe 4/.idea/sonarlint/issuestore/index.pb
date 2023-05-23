@@ -29,11 +29,3 @@ Mprojetjava/application/Tournoi de billes/src/main/java/model/TypeCircuit.java,
 Lprojetjava/application/Tournoi de billes/src/main/java/model/Tournament.java,1\d\1d725a41996f09ddbb0a5d200a16c25855d73202
 ‚
 Rprojetjava/application/Tournoi de billes/src/main/java/model/MatchElimination.java,0\a\0aa37416fcb451260fd3cddab73b1172fd4d83bd
-–
-fprojetjava/application/Tournoi de billes/src/main/java/controller/TournamentEliminationController.java,1\e\1e9a0f99b4473f48ac642cf37e09dba400819c81
-p
-@projetjava/application/Tournoi de billes/src/main/java/Main.java,7\7\77440a75dc72a90718e57b8ec816a1f4ff7b1c14
-‡
-Wprojetjava/application/Tournoi de billes/src/main/java/model/TournamentElimination.java,7\0\70153a33b1d1eda3fbd0820918301b89f72f621c
-‹
-[projetjava/application/Tournoi de billes/src/main/java/controller/TournamentController.java,1\3\13299848f692d1988503a0de0e887b304ca4d9ec
