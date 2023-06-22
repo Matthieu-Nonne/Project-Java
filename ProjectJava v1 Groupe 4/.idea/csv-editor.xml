@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\projetjava\application\Tournoi de billes\src\main\resources\PlayersSelected.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\projetjava\application\Tournoi de billes\src\main\resources\Tournament.csv">
           <value>
             <Attribute>

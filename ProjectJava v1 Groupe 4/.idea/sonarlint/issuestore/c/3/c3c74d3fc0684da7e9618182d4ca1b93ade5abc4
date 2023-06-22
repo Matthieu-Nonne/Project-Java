@@ -1,4 +1,22 @@
 
-b	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(–Ê“·úÿÿÿÿ8®™­¾„1
+ˆ
+java:S1319"fThe type of "matchs" should be an interface such as "List" rather than the implementation "ArrayList".(ãä„÷ÿÿÿÿÿ8ŸÇÍº†1
+Œ
+java:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™ØE8²—Ñº†1
+S
+java:S2387	"1"winner1" is the name of a field in "Tournament".(¾×³Œûÿÿÿÿ8üş»¼†1
+N
+java:S2387
+"1"winner2" is the name of a field in "Tournament".(¯âÒÉ8üş»¼†1
+S
+java:S2387"1"winner3" is the name of a field in "Tournament".(ÿÃœìüÿÿÿÿ8üş»¼†1
 9
-java:S1116"Remove this empty statement.(¦õÛä8ñóÅÆ„1
+java:S1116"Remove this empty statement.(¦õÛä8¥ÇÍº†1
+\
+java:S1161":Add the "@Override" annotation above this method signature(î¨Œáşÿÿÿÿ8ÿ»¼†1
+W
+java:S1161!":Add the "@Override" annotation above this method signature(·Æê¢8ÿ»¼†1
+W
+java:S1161%":Add the "@Override" annotation above this method signature(Î´»Ù8ÿ»¼†1
+X
+java:S1128";Remove this unused import 'javafx.scene.control.TextField'.(¨¢¤¶8°…›½†1
