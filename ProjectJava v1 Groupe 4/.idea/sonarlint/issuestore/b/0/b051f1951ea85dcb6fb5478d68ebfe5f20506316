@@ -1,9 +1,0 @@
-
-n
-java:S1450"SRemove the "root" field and declare it as a local variable in the relevant methods.(Ð´”ðûÿÿÿÿ
-o
-java:S1450"TRemove the "stage" field and declare it as a local variable in the relevant methods.(‹ðÑœýÿÿÿÿ
-k
-java:S1854"PRemove this useless assignment to local variable "historicTournamentController".(”â¯áøÿÿÿÿ
-\
-java:S1481"ARemove this unused "historicTournamentController" local variable.(”â¯áøÿÿÿÿ

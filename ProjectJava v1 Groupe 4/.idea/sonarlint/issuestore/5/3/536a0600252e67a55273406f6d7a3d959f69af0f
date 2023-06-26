@@ -1,15 +1,0 @@
-
-u
-java:S1450"SRemove the "root" field and declare it as a local variable in the relevant methods.(Ğ´”ğûÿÿÿÿ8æÃÓ¼‡1
-v
-java:S1450"TRemove the "stage" field and declare it as a local variable in the relevant methods.(‹ğÑœıÿÿÿÿ8çÃÓ¼‡1
->
-java:S11160"Remove this empty statement.(Åñ­õşÿÿÿÿ8íÃÓ¼‡1
-
-java:S1130G"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ê¹Ïêøÿÿÿÿ8òÃÓ¼‡1
-T
-java:S1172G"2Remove this unused method parameter "actionEvent".(Ê¹Ïêøÿÿÿÿ8óÃÓ¼‡1
-V
-java:S1481b"9Remove this unused "principaleController" local variable.(”–ûØ8ùÃÓ¼‡1
-M
-java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ıÃÓ¼‡1
